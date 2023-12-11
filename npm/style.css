@@ -1,0 +1,95 @@
+.right{
+    text-align: left;
+    font-size: 35px;
+}
+.left{
+    text-align: right;
+    font-size: 35px;
+}
+.center{
+    font-size: 35px;
+    
+
+}
+.instgram{
+    background-color:#833AB4 ;
+    border: none;
+}
+.youtube{
+    background-color: #FF0000;
+}
+
+
+.profile{
+    width: 200px;
+    height: auto;
+   clip-path: circle();
+}
+
+
+.hr{
+    margin-left: 1%;
+    margin-right: 1%; 
+    color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+
+
+.profilh{
+    color: white;
+    text-align: center;
+    margin-top: -3%;
+}
+
+.profilp{
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+}
+
+
+
+
+
+.aoth2{
+color: white;
+text-align: center;
+margin-top: 10%;
+}
+
+.aotp{
+color: white;
+text-align: center;
+margin-top: 10%;
+}
+
+
+
+
+
+
+
+
+footer{
+    color: white;
+    margin-left: 5%;
+    font-size: 25px;
+    text-align: left;
+}
+
+
+.terms{
+    display: inline-block;
+    margin-right: 2%;
+    margin-left: 1%;
+}
+
+.btt{
+    display: inline-block;
+    
+    float: inline-end;
+   
+}
