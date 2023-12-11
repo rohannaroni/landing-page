@@ -1,7 +1,7 @@
 ﻿# Landing Page Using BootStrap
 
-# Dark interface
-# Smooth scrolling in each section.
+ Dark interface
+ Smooth scrolling in each section.
 
 
 # CLick On The Link To See Output :
