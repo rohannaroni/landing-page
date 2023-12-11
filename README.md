@@ -3,5 +3,5 @@
 
 # Outputs :
 
-* [Click Here](https://rohannaroni.github.io/landing-page/index.html)
+* [Click Here](https://rohannaroni.github.io/landing-page/npmindex.html)
 
